@@ -30,6 +30,7 @@ My long-term goal is to specialize in cloud security, focusing on securing hybri
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white/" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-OPNSense-777BB4?&style=for-the-badge&logo=OPNSense&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tcpdump-EF3B2D?&style=for-the-badge&logo=Tcpdump&logoColor=white" />
 </div>
 
 ### Endpoint
