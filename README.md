@@ -52,17 +52,17 @@ My long-term goal is to specialize in cloud security, focusing on securing hybri
 ### Vulnerability Management
 <div>
     <img src="https://img.shields.io/badge/-Qualys-FFB6C1?&style=for-the-badge&logo=Qualys&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-73CBFD?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-73CBFD?&style=for-the-badge&logo=Tenable&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
+</div>
+
+## Training    
+<img src="https://img.shields.io/badge/-Security%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Certified_in_Cybersecurity-4D4D4D?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
 
 ## Projects
