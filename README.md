@@ -1,7 +1,8 @@
 # Hello, I'm Sule A. Inwunoba
 <a href="https://linkedin.com/in/sule-inwunoba"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a dedicated cybersecurity professional with a profound interest in technology and a dedication to solving complex problems. I am passionate about protecting organizations and individuals from ever-evolving cyber threats. With a strong foundation in SQL and Python, I’ve applied these skills across various projects to develop robust security solutions and systems.
+## Brief Introduction
+I am a dedicated security professional with a profound interest in technology and a dedication to solving complex problems. I am passionate about protecting organizations and individuals from ever-evolving cyber threats. With a strong foundation in SQL and Python and a security mindset, I’ve applied these skills across various projects to develop robust security solutions and systems.
 
 ## Objective
 
@@ -13,12 +14,13 @@ My long-term goal is to specialize in cloud security, focusing on securing hybri
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Auditing and Compliance                | <a href="https://google.com">Detection Lab</a>|
+| Incident Response and Network Security Analysis | <a href="https://google.com">Detection Lab</a>|
+| Linux File Permissions Configuration            | SOC Automation Lab|
+| SQL Queries                                     | SOC Automation Lab|
+| Vulnerability Assessment                        | SOC Automation Lab|
+| Incident Management                             | SOC Automation Lab|
+| Python Algorithm Development                    | 
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
