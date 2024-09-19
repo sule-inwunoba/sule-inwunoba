@@ -17,7 +17,7 @@ My long-term goal is to specialize in cloud security, focusing on securing hybri
 | Security Auditing and Compliance                | <a href="https://google.com">Detection Lab</a>|
 | Incident Response and Network Security Analysis | <a href="https://google.com">Detection Lab</a>|
 | Linux File Permissions Configuration            | SOC Automation Lab|
-| SQL Queries                                     | SOC Automation Lab|
+| SQL                                             | SOC Automation Lab|
 | Vulnerability Assessment                        | SOC Automation Lab|
 | Incident Management                             | SOC Automation Lab|
 | Python Algorithm Development                    | 
