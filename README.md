@@ -49,6 +49,12 @@ My long-term goal is to specialize in cloud security, focusing on securing hybri
     <img src="https://img.shields.io/badge/-VirusTotal-73CBFD?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
 </div>
 
+### Vulnerability Management
+<div>
+    <img src="https://img.shields.io/badge/-Qualys-FFB6C1?&style=for-the-badge&logo=Qualys&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-73CBFD?&style=for-the-badge&logo=Nessus&logoColor=white" />
+</div>
+
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
