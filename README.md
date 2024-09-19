@@ -35,15 +35,18 @@ My long-term goal is to specialize in cloud security, focusing on securing hybri
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-00A4EF?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Chronicle-005571?&style=for-the-badge&logo=Chronicle&logoColor=white" />
+</div>
+
+### Analysis/Threat Intelligence
+<div>
+    <img src="https://img.shields.io/badge/-VirusTotal-000000?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
 </div>
 
 ## Certifications
