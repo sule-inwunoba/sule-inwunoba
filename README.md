@@ -38,7 +38,7 @@ My long-term goal is to specialize in cloud security, focusing on securing hybri
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-FF6600?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Chronicle-005571?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
