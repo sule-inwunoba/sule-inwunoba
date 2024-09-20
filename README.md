@@ -10,7 +10,6 @@ My enthusiasm for technology and to build resilient digital infrastructures that
 My long-term goal is to specialize in cloud security, focusing on securing hybrid and multi-cloud environments
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,14 +22,13 @@ My long-term goal is to specialize in cloud security, focusing on securing hybri
 | Python Algorithm Development                    | 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white/" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OPNSense-777BB4?&style=for-the-badge&logo=OPNSense&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tcpdump-EF3B2D?&style=for-the-badge&logo=Tcpdump&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-FC6C85?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OPNSense-FF6600?&style=for-the-badge&logo=OPNsense&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
 </div>
 
 ### Endpoint
