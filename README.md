@@ -33,24 +33,24 @@ My long-term goal is to specialize in cloud security, focusing on securing hybri
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Wazuh-00A4EF?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-5B96F7?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-FFDAB9?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Chronicle-005571?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
 ### Analysis/Threat Intelligence
 <div>
-    <img src="https://img.shields.io/badge/-VirusTotal-73CBFD?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
 </div>
 
 ### Vulnerability Management
 <div>
-    <img src="https://img.shields.io/badge/-Qualys-FFB6C1?&style=for-the-badge&logo=Qualys&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-73CBFD?&style=for-the-badge&logo=Tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys-ED1C24?&style=for-the-badge&logo=Qualys&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-00A4E4?&style=for-the-badge&logo=Tenable&logoColor=white" />
 </div>
 
 ## Certifications
