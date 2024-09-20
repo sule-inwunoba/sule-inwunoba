@@ -15,7 +15,7 @@ My long-term goal is to specialize in cloud security, focusing on securing hybri
 |--------------------------------------------|----------------------------|
 | Security Auditing and Compliance           | <a href="https://github.com/sule-inwunoba/Security-Audit-Implementation/blob/main/README.md">Security Audit Implementation</a>|
 | Network Security Analysis                  | <a href="https://github.com/sule-inwunoba/Network-Security-Analysis/blob/main/README.md">Network Security Analysis</a>|
-| Linux File Permissions Configuration       | <a href="https://github.com/sule-inwunoba/Security-Audit-Implementation/blob/main/README.md">Security Audit Implementation</a>|
+| Linux File Permissions Configuration       | <a href="https://github.com/sule-inwunoba/Linux-File-Permission-Management/blob/main/README.md">Linux File Permission Management</a>|
 | SQL                                        | <a href="https://github.com/sule-inwunoba/Security-Audit-Implementation/blob/main/README.md">Security Audit Implementation</a>|
 | Vulnerability Assessment                   | <a href="https://github.com/sule-inwunoba/Security-Audit-Implementation/blob/main/README.md">Security Audit Implementation</a>|
 | Incident Management                        | <a href="https://github.com/sule-inwunoba/Security-Audit-Implementation/blob/main/README.md">Security Audit Implementation</a>|
@@ -68,7 +68,7 @@ My long-term goal is to specialize in cloud security, focusing on securing hybri
 - <a href="https://github.com/sule-inwunoba/Virtual-Lab-Set-Up/blob/main/README.md">Virtual Lab SetUp</a>
 - <a href="https://github.com/sule-inwunoba/Security-Audit-Implementation/blob/main/README.md">Security Audit Implementation</a>
 - <a href="https://github.com/sule-inwunoba/Network-Security-Analysis/blob/main/README.md">Network Security Analysis</a>
-- Using Linux Commands to Manage File Permissions
+- <a href="https://github.com/sule-inwunoba/Linux-File-Permission-Management/blob/main/README.md">Linux File Permission Management</a>
 - Applying Filters to SQL Queries
 - Identifying Vulnerabilities for a Small Business
 - Importing & Parsing Text File in a Security-Related Scenerio
