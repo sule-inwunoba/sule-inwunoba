@@ -66,8 +66,9 @@ My long-term goal is to specialize in cloud security, focusing on securing hybri
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Virtul Lab Set Up
+- Conducting Security Audit
+- 
   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
