@@ -20,7 +20,7 @@ My long-term goal is to specialize in cloud security, focusing on securing hybri
 | Vulnerability Assessment                        | SOC Automation Lab|
 | Incident Management                             | SOC Automation Lab|
 | Python Algorithm Development                    | 
-| Virtual Lab Set Up                              | <a href="https://github.com/sule-inwunoba/Virtual-Lab-Set-Up/blob/main/README.md">Virtual-Lab-Set-Up</a>|
+| Virtual Lab Set Up                              | <a href="https://github.com/sule-inwunoba/Virtual Lab SetUp/blob/main/README.md">Virtual-Lab-Set-Up</a>|
 
 ## Tools
 
@@ -65,7 +65,7 @@ My long-term goal is to specialize in cloud security, focusing on securing hybri
 </div>
 
 ## Projects
-- <a href="https://github.com/sule-inwunoba/Virtual-Lab-Set-Up/blob/main/README.md">Virtual-Lab-Set-Up</a>
+- <a href="https://github.com/sule-inwunoba/Virtual-Lab-Set-Up/blob/main/README.md">Virtual Lab SetUp</a>
 - Conducting Security Audit
 - Analyzing Network Structure & Security
 - Using Linux Commands to Manage File Permissions
