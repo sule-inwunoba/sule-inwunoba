@@ -20,7 +20,7 @@ My long-term goal is to specialize in cloud security, focusing on securing hybri
 | Vulnerability Assessment                   | <a href="https://github.com/sule-inwunoba/Small-Business-Vulnerability-Assessment/blob/main/README.md">Small Business Vulnerability Assessment</a>|
 | Incident Detection & Management            | <a href="https://github.com/sule-inwunoba/Virtual Lab SetUp/blob/main/README.md">Virtual-Lab-Set-Up</a>|
 | Python Algorithm Development               | <a href="https://github.com/sule-inwunoba/Text-File-Parsing-for-Security-Operations/blob/main/README.md">Text File Parsing for Security Operations</a>|
-| Virtual Lab Set Up                         | <a href="https://github.com/sule-inwunoba/Virtual Lab SetUp/blob/main/README.md">Virtual-Lab-Set-Up</a>|
+| Proficiency in the use of SIEM tool (Wazuh)   | <a href="https://github.com/sule-inwunoba/Virtual Lab SetUp/blob/main/README.md">Virtual-Lab-Set-Up</a>|
 
 ## Tools
 
