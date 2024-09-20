@@ -70,5 +70,4 @@ My long-term goal is to specialize in cloud security, focusing on securing hybri
 - <a href="https://github.com/sule-inwunoba/Network-Security-Analysis/blob/main/README.md">Network Security Analysis</a>
 - <a href="https://github.com/sule-inwunoba/Linux-File-Permission-Management/blob/main/README.md">Linux File Permission Management</a>
 - <a href="https://github.com/sule-inwunoba/SQL-Query-Filtering/blob/main/README.md">SQL Query Filtering</a>
-- Identifying Vulnerabilities for a Small Business
 - Importing & Parsing Text File in a Security-Related Scenerio
