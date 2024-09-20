@@ -64,11 +64,10 @@ My long-term goal is to specialize in cloud security, focusing on securing hybri
 </div>
 
 ## Projects
-- Virtul Lab Set Up
+- Virtual Lab Set Up
 - Conducting Security Audit
 - Analyzing Network Structure & Security
 - Using Linux Commands to Manage File Permissions
 - Applying Filters to SQL Queries
 - Identifying Vulnerabilities for a Small Business
 - Importing & Parsing Text File in a Security-Related Scenerio
--->
