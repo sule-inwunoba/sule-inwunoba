@@ -17,7 +17,7 @@ My long-term goal is to specialize in cloud security, focusing on securing hybri
 | Network Security Analysis                  | <a href="https://github.com/sule-inwunoba/Network-Security-Analysis/blob/main/README.md">Network Security Analysis</a>|
 | Linux File Permissions Configuration       | <a href="https://github.com/sule-inwunoba/Linux-File-Permission-Management/blob/main/README.md">Linux File Permission Management</a>|
 | SQL                                        | <a href="https://github.com/sule-inwunoba/SQL-Query-Filtering/blob/main/README.md">SQL Query Filtering</a>|
-| Vulnerability Assessment                   | <a href="https://github.com/sule-inwunoba/Security-Audit-Implementation/blob/main/README.md">Security Audit Implementation</a>|
+| Vulnerability Assessment                   | <a href="https://github.com/sule-inwunoba/Small-Business-Vulnerability-Assessment/blob/main/README.md">Small Business Vulnerability Assessment</a>|
 | Incident Management                        | <a href="https://github.com/sule-inwunoba/Security-Audit-Implementation/blob/main/README.md">Security Audit Implementation</a>|
 | Python Algorithm Development               | <a href="https://github.com/sule-inwunoba/Security-Audit-Implementation/blob/main/README.md">Security Audit Implementation</a>
 | Virtual Lab Set Up                         | <a href="https://github.com/sule-inwunoba/Virtual Lab SetUp/blob/main/README.md">Virtual-Lab-Set-Up</a>|
