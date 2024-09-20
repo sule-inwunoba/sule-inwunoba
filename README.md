@@ -66,7 +66,7 @@ My long-term goal is to specialize in cloud security, focusing on securing hybri
 
 ## Projects
 - <a href="https://github.com/sule-inwunoba/Virtual-Lab-Set-Up/blob/main/README.md">Virtual Lab SetUp</a>
-- <a href="https://github.com/sule-inwunoba/Security-Audit-Implementation/blob/main/README.md">Security Audit Implementation</a>|
+- <a href="https://github.com/sule-inwunoba/Security-Audit-Implementation/blob/main/README.md">Security Audit Implementation</a>
 - Analyzing Network Structure & Security
 - Using Linux Commands to Manage File Permissions
 - Applying Filters to SQL Queries
