@@ -11,16 +11,16 @@ My long-term goal is to specialize in cloud security, focusing on securing hybri
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Security Auditing and Compliance                | <a href="https://github.com/sule-inwunoba/Security-Audit-Implementation/blob/main/README.md">Security Audit Implementation</a>|
-| Incident Response and Network Security Analysis | <a href="https://google.com">Detection Lab</a>|
-| Linux File Permissions Configuration            | SOC Automation Lab|
-| SQL                                             | SOC Automation Lab|
-| Vulnerability Assessment                        | SOC Automation Lab|
-| Incident Management                             | SOC Automation Lab|
-| Python Algorithm Development                    | 
-| Virtual Lab Set Up                              | <a href="https://github.com/sule-inwunoba/Virtual Lab SetUp/blob/main/README.md">Virtual-Lab-Set-Up</a>|
+| Skill                                      | Associated Project         |
+|--------------------------------------------|----------------------------|
+| Security Auditing and Compliance           | <a href="https://github.com/sule-inwunoba/Security-Audit-Implementation/blob/main/README.md">Security Audit Implementation</a>|
+| Network Security Analysis                  | <a href="https://github.com/sule-inwunoba/Network-Security-Analysis/blob/main/README.md">Network Security Analysis</a>|
+| Linux File Permissions Configuration       | <a href="https://github.com/sule-inwunoba/Security-Audit-Implementation/blob/main/README.md">Security Audit Implementation</a>|
+| SQL                                        | <a href="https://github.com/sule-inwunoba/Security-Audit-Implementation/blob/main/README.md">Security Audit Implementation</a>|
+| Vulnerability Assessment                   | <a href="https://github.com/sule-inwunoba/Security-Audit-Implementation/blob/main/README.md">Security Audit Implementation</a>|
+| Incident Management                        | <a href="https://github.com/sule-inwunoba/Security-Audit-Implementation/blob/main/README.md">Security Audit Implementation</a>|
+| Python Algorithm Development               | <a href="https://github.com/sule-inwunoba/Security-Audit-Implementation/blob/main/README.md">Security Audit Implementation</a>
+| Virtual Lab Set Up                         | <a href="https://github.com/sule-inwunoba/Virtual Lab SetUp/blob/main/README.md">Virtual-Lab-Set-Up</a>|
 
 ## Tools
 
@@ -67,7 +67,7 @@ My long-term goal is to specialize in cloud security, focusing on securing hybri
 ## Projects
 - <a href="https://github.com/sule-inwunoba/Virtual-Lab-Set-Up/blob/main/README.md">Virtual Lab SetUp</a>
 - <a href="https://github.com/sule-inwunoba/Security-Audit-Implementation/blob/main/README.md">Security Audit Implementation</a>
-- Analyzing Network Structure & Security
+- <a href="https://github.com/sule-inwunoba/Network-Security-Analysis/blob/main/README.md">Network Security Analysis</a>
 - Using Linux Commands to Manage File Permissions
 - Applying Filters to SQL Queries
 - Identifying Vulnerabilities for a Small Business
